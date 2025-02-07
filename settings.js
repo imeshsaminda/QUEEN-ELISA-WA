@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.QUEENELISA;;;==QTURTMzkkeH9VWtkzVotWaSJGOxNDRfxkcn9kUp9ESJpXNmdUMLNEOZZWYjIlSJRkexEEMpwd=58324326749 || '',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -28,9 +28,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: 'SLTF✓CHUK',
+  OWNER_NUMBER: '94762342385',
+  SUDO: '94762342385',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
